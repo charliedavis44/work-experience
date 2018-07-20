@@ -1,0 +1,37 @@
+,Part,Name,Hours
+0,Engine,Donald Knuth,11
+1,Engine,Donald Knuth,14
+2,Engine,Donald Knuth,13
+3,Engine,Donald Knuth,14
+4,Engine,Donald Knuth,14
+5,Engine,Donald Knuth,14
+6,Engine,Donald Knuth,13
+7,Engine,John Carmack,10
+8,Engine,John Carmack,9
+9,Engine,John Carmack,12
+10,Engine,John Carmack,99
+11,Engine,John Carmack,10
+12,Engine,John Carmack,9
+13,Engine,John Carmack,9
+14,Wheel,Donald Knuth,5
+15,Wheel,Donald Knuth,3
+16,Wheel,Donald Knuth,5
+17,Wheel,Donald Knuth,5
+18,Wheel,John Carmack,NULL
+19,Wheel,John Carmack,3
+20,Wheel,John Carmack,3
+21,Wheel,John Carmack,6
+22,Exhaust,John Carmack,4
+23,Exhaust,Donald Knuth,5
+24,Exhaust,Donald Knuth,4
+25,Air Conditioning,Donald Knuth,5
+26,Air Conditioning,Donald Knuth,7
+27,Air Conditioning,Donald Knuth,4
+28,Air Conditioning,Donald Knuth,7
+29,Air Conditioning,John Carmack,10
+30,Air Conditioning,John Carmack,8
+31,NULL,NULL,NULL
+32,Air Conditioning,John Carmack,7
+33,Air Conditioning,John Carmack,9
+34,Air Conditioning,John Carmack,4
+35,Air Conditioning,John Carmack,5
